@@ -1,0 +1,6 @@
+{
+  "name": "Map Quest Survey",
+  "description": "An interactive map-based survey experience where users explore locations to answer questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
